@@ -173,6 +173,6 @@ The dashboard simplifies large datasets into meaningful visual insights for fast
 Identifies low-profit periods and underperforming categories to improve future business strategies.
 
 # Screenshot:
-https://github.com/Shrutad29/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/Screenshot%20of%20the%20dashboard.png
+![Dashboard Preview](## 📸 Dashboard Preview
 
-
+![Dashboard Preview](https://github.com/Shrutad29/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/Screenshot%20of%20the%20dashboard.png)
