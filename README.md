@@ -174,5 +174,5 @@ Identifies low-profit periods and underperforming categories to improve future b
 
 # Screenshot:
 ![Dashboard Preview](## 📸 Dashboard Preview
-
+![Alt text](https://github.com/username/repo/assets/image.png)
 ![Dashboard Preview](https://github.com/Shrutad29/MADHAV-ECOMMERCE-SALES-DASHBOARD/blob/main/Screenshot%20of%20the%20dashboard.png)
